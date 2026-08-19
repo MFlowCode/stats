@@ -1,5 +1,5 @@
 % Statistics for MFlowCode/MFC
-% Generated for [MFlowCode/MFC](https://github.com/MFlowCode/MFC) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2026-08-19 17:34 UTC.
+% Generated for [MFlowCode/MFC](https://github.com/MFlowCode/MFC) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2026-08-19 17:41 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `github.com`, 02: `linkedin.com`, 03: `t.co`, 04: `mflowcode.github.io`, 05: `Google`, 06: `com.linkedin.android`, 07: `linfu.people.ust.hk`, 08: `Bing`, 09: `sciencedirect.com`, 10: `link.zhihu.com`, 11: `cn.bing.com`, 12: `chatgpt.com`, 13: `forms.office.com`, 14: `comp-physics.group`, 15: `statics.teams.cdn.office.net`
+Top 15 referrers: 01: `github.com`, 02: `linkedin.com`, 03: `t.co`, 04: `mflowcode.github.io`, 05: `Google`, 06: `com.linkedin.android`, 07: `linfu.people.ust.hk`, 08: `Bing`, 09: `sciencedirect.com`, 10: `link.zhihu.com`, 11: `cn.bing.com`, 12: `comp-physics.group`, 13: `chatgpt.com`, 14: `forms.office.com`, 15: `statics.teams.cdn.office.net`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `github.com`, 02: `linkedin.com`, 03: `t.co`, 04: `mflowco
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `mflowcode/mfc`, 02: `MFlowCode/MFC`, 03: `MFlowCode/MFC/tree/master/src`, 04: `MFlowCode/MFC/tree/master/src/simulation`, 05: `MFlowCode/MFC/tree/master/examples`, 06: `mflowcode/MFC`, 07: `MFlowCode/MFC/pulls`, 08: `MFlowCode/MFC/releases/tag/v5.0.0`, 09: `MFlowCode/MFC/issues`, 10: `MFlowCode/MFC/releases/tag/v5.2.0`, 11: `MFlowCode/MFC/releases/tag/v5.3.0`, 12: `MFlowCode/MFC/tree/master`, 13: `MFlowCode/MFC/releases/tag/v5.6.1`, 14: `MFlowCode/MFC/tree/master/docs`, 15: `MFlowCode/MFC/releases/tag/v5.2.1`
+Top 15 paths: 01: `mflowcode/mfc`, 02: `MFlowCode/MFC`, 03: `MFlowCode/MFC/tree/master/src`, 04: `MFlowCode/MFC/tree/master/src/simulation`, 05: `MFlowCode/MFC/tree/master/examples`, 06: `mflowcode/MFC`, 07: `MFlowCode/MFC/pulls`, 08: `MFlowCode/MFC/issues`, 09: `MFlowCode/MFC/releases/tag/v5.0.0`, 10: `MFlowCode/MFC/releases/tag/v5.2.0`, 11: `MFlowCode/MFC/releases/tag/v5.3.0`, 12: `MFlowCode/MFC/tree/master`, 13: `MFlowCode/MFC/releases/tag/v5.6.1`, 14: `MFlowCode/MFC/tree/master/docs`, 15: `MFlowCode/MFC/releases/tag/v5.2.1`
 
 
 <script type="text/javascript">
