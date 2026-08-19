@@ -11,7 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: run-ghrs
-        uses: sbryngelson/github-repo-stats@main
+        # Pinned to jgehrcke/github-repo-stats main @ 2026-07-10.
+        # Bump by replacing the SHA; the published tags (newest v1.4.2, Dec 2022)
+        # predate the current plot and data-point-limit code, so do not use them.
+        uses: jgehrcke/github-repo-stats@ff48771cbb4324c3b77490bbfc26d6a5f3831cdb
         with:
           # Define the stats repository (the repo to fetch
           # stats for and to generate the report for).
